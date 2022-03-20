@@ -1,0 +1,28 @@
+
+#rock {
+    background-color: black;
+    color: antiquewhite;
+}
+
+#paper {
+    background-color: antiquewhite;
+    color: black;
+}
+
+#scissors {
+    background-color: darkgray;
+    color: black;
+
+}
+
+body {
+    background-color: cornflowerblue;
+
+}
+
+img {
+    margin: 20px auto;
+    width: 20px auto;
+    height: 300px;
+  
+}
